@@ -1,0 +1,16 @@
+
+syntax = "proto2";
+
+message cmsg {
+    repeated int32 c = 1;
+}
+
+/* The structure will of this type:
+struct  _Cmsg
+{
+  ProtobufCMessage base;
+  size_t n_c;  //count 
+  int32_t *c;  // malloc(count)
+};
+
+*/

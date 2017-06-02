@@ -1,0 +1,2024 @@
+cscope 15 $HOME/project/protocols/build/c/com/protocol -q 0000000144 0000016452
+	@shared/gps_data.proto3.pb-c.c
+
+5 #iâdeà
+PROTOBUF_C__NO_DEPRECATED
+
+
+6 
+	#PROTOBUF_C__NO_DEPRECATED
+
+
+	)
+
+9 
+	~"com/´ÙocŞ/sh¬ed/gps_d©a.´Ùo3.pb-c.h
+"
+
+10 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__š™
+
+
+11 (
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+)
+
+13 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ 
+	gš™_v®ue
+ = 
+COM__PROTOCOL__SHARED__GPS_DATA__INIT
+;
+
+14 *
+	gmes§ge
+ = 
+š™_v®ue
+;
+
+16 
+size_t
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__g‘_·cked_size
+
+
+17 (cÚ¡ 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+)
+
+19 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+);
+
+20  
+´Ùobuf_c_mes§ge_g‘_·cked_size
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)(
+mes§ge
+));
+
+22 
+size_t
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__·ck
+
+
+23 (cÚ¡ 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+,
+
+24 
+ušt8_t
+ *
+	gout
+)
+
+26 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+);
+
+27  
+´Ùobuf_c_mes§ge_·ck
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+out
+);
+
+29 
+size_t
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__·ck_to_bufãr
+
+
+30 (cÚ¡ 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+,
+
+31 
+PrÙobufCBufãr
+ *
+	gbufãr
+)
+
+33 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+);
+
+34  
+´Ùobuf_c_mes§ge_·ck_to_bufãr
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+bufãr
+);
+
+36 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+
+37 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__uÅack
+
+
+38 (
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+,
+
+39 
+size_t
+ 
+	gËn
+,
+
+40 cÚ¡ 
+ušt8_t
+ *
+	gd©a
+)
+
+42  (
+	gCom__PrÙocŞ__Sh¬ed__GpsD©a
+ *)
+
+43 
+´Ùobuf_c_mes§ge_uÅack
+ (&
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+,
+
+44 
+®loÿtÜ
+, 
+Ën
+, 
+d©a
+);
+
+46 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__ä“_uÅacked
+
+
+47 (
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+,
+
+48 
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+)
+
+50 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+);
+
+51 
+´Ùobuf_c_mes§ge_ä“_uÅacked
+ ((
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+®loÿtÜ
+);
+
+53 cÚ¡ 
+PrÙobufCF›ldDesütÜ
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__f›ld_desütÜs
+[5] =
+
+58 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+59 
+PROTOBUF_C_TYPE_FLOAT
+,
+
+60 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+has_Ït™ude
+),
+
+61 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+Ït™ude
+),
+
+62 
+NULL
+,
+
+63 
+NULL
+,
+
+65 0,
+NULL
+,NULL
+
+70 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+71 
+PROTOBUF_C_TYPE_FLOAT
+,
+
+72 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+has_lÚg™ude
+),
+
+73 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+lÚg™ude
+),
+
+74 
+NULL
+,
+
+75 
+NULL
+,
+
+77 0,
+NULL
+,NULL
+
+82 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+83 
+PROTOBUF_C_TYPE_INT32
+,
+
+84 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+has_–ev©iÚ
+),
+
+85 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+–ev©iÚ
+),
+
+86 
+NULL
+,
+
+87 
+NULL
+,
+
+89 0,
+NULL
+,NULL
+
+94 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+95 
+PROTOBUF_C_TYPE_INT32
+,
+
+96 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+has_h—dšg
+),
+
+97 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+h—dšg
+),
+
+98 
+NULL
+,
+
+99 
+NULL
+,
+
+101 0,
+NULL
+,NULL
+
+106 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+107 
+PROTOBUF_C_TYPE_BOOL
+,
+
+108 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+has_»v”£d
+),
+
+109 
+off£tof
+(
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+, 
+»v”£d
+),
+
+110 
+NULL
+,
+
+111 
+NULL
+,
+
+113 0,
+NULL
+,NULL
+
+116 cÚ¡ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__f›ld_šdiûs_by_Çme
+[] = {
+
+123 cÚ¡ 
+PrÙobufCIÁRªge
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__numb”_¿nges
+[1 + 1] =
+
+128 cÚ¡ 
+PrÙobufCMes§geDesütÜ
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+ =
+
+130 
+PROTOBUF_C__MESSAGE_DESCRIPTOR_MAGIC
+,
+
+135 (
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+),
+
+137 
+com__´ÙocŞ__sh¬ed__gps_d©a__f›ld_desütÜs
+,
+
+138 
+com__´ÙocŞ__sh¬ed__gps_d©a__f›ld_šdiûs_by_Çme
+,
+
+139 1, 
+com__´ÙocŞ__sh¬ed__gps_d©a__numb”_¿nges
+,
+
+140 (
+PrÙobufCMes§geIn™
+è
+com__´ÙocŞ__sh¬ed__gps_d©a__š™
+,
+
+141 
+NULL
+,NULL,NULL
+
+	@shared/gps_data.proto3.pb-c.h
+
+4 #iâdeà
+PROTOBUF_C_com_2årÙocŞ_2fsh¬ed_2fgps_5fd©a_2•rÙo3__INCLUDED
+
+
+5 
+	#PROTOBUF_C_com_2årÙocŞ_2fsh¬ed_2fgps_5fd©a_2•rÙo3__INCLUDED
+
+
+	)
+
+7 
+	~<´Ùobuf-c/´Ùobuf-c.h
+>
+
+9 
+	gPROTOBUF_C__BEGIN_DECLS
+
+
+11 #ià
+PROTOBUF_C_VERSION_NUMBER
+ < 1000000
+
+12 #”rÜ 
+This
+ 
+fe
+ 
+was
+ 
+g’”©ed
+ 
+by
+ 
+a
+ 
+Ãw”
+ 
+v”siÚ
+ 
+of
+ 
+´Ùoc
+-
+c
+ 
+which
+ 
+is
+ 
+šcom·tibË
+ 
+w™h
+ 
+your
+ 
+lib´Ùobuf
+-ø
+h—d”s
+. 
+PËa£
+ 
+upd©e
+ your headers.
+
+13 #–ià1002001 < 
+PROTOBUF_C_MIN_COMPILER_VERSION
+
+
+14 #”rÜ 
+This
+ 
+fe
+ 
+was
+ 
+g’”©ed
+ 
+by
+ 
+ª
+ 
+Şd”
+ 
+v”siÚ
+ 
+of
+ 
+´Ùoc
+-
+c
+ 
+which
+ 
+is
+ 
+šcom·tibË
+ 
+w™h
+ 
+your
+ 
+lib´Ùobuf
+-ø
+h—d”s
+. 
+PËa£
+ 
+»g’”©e
+ 
+this
+ fw™h 
+a
+ 
+Ãw”
+ version of…rotoc-c.
+
+18 
+_Com__PrÙocŞ__Sh¬ed__GpsD©a
+ 
+	tCom__PrÙocŞ__Sh¬ed__GpsD©a
+;
+
+26 
+	s_Com__PrÙocŞ__Sh¬ed__GpsD©a
+
+
+28 
+PrÙobufCMes§ge
+ 
+	mba£
+;
+
+29 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_Ït™ude
+;
+
+30 
+	mÏt™ude
+;
+
+31 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_lÚg™ude
+;
+
+32 
+	mlÚg™ude
+;
+
+33 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_–ev©iÚ
+;
+
+34 
+št32_t
+ 
+	m–ev©iÚ
+;
+
+35 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_h—dšg
+;
+
+36 
+št32_t
+ 
+	mh—dšg
+;
+
+37 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_»v”£d
+;
+
+38 
+´Ùobuf_c_boŞ—n
+ 
+	m»v”£d
+;
+
+40 
+	#COM__PROTOCOL__SHARED__GPS_DATA__INIT
+ \
+
+41 { 
+	`PROTOBUF_C_MESSAGE_INIT
+ (&
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+) \
+
+42 , 0,0, 0,0, 0,0, 0,0, 0,0 }
+
+	)
+
+46 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__š™
+
+
+47 (
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+);
+
+48 
+size_t
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__g‘_·cked_size
+
+
+49 (cÚ¡ 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+);
+
+50 
+size_t
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__·ck
+
+
+51 (cÚ¡ 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+,
+
+52 
+ušt8_t
+ *
+	gout
+);
+
+53 
+size_t
+ 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__·ck_to_bufãr
+
+
+54 (cÚ¡ 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+,
+
+55 
+PrÙobufCBufãr
+ *
+	gbufãr
+);
+
+56 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+
+57 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__uÅack
+
+
+58 (
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+,
+
+59 
+size_t
+ 
+	gËn
+,
+
+60 cÚ¡ 
+ušt8_t
+ *
+	gd©a
+);
+
+61 
+	gcom__´ÙocŞ__sh¬ed__gps_d©a__ä“_uÅacked
+
+
+62 (
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	gmes§ge
+,
+
+63 
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+);
+
+66 (*
+	tCom__PrÙocŞ__Sh¬ed__GpsD©a_Closu»
+)
+
+67 (cÚ¡ 
+	tCom__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	tmes§ge
+,
+
+68 *
+	tşosu»_d©a
+);
+
+75 cÚ¡ 
+PrÙobufCMes§geDesütÜ
+ 
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+;
+
+77 
+PROTOBUF_C__END_DECLS
+
+
+	@unitcom/vehicle.proto3.pb-c.c
+
+5 #iâdeà
+PROTOBUF_C__NO_DEPRECATED
+
+
+6 
+	#PROTOBUF_C__NO_DEPRECATED
+
+
+	)
+
+9 
+	~"com/´ÙocŞ/un™com/vehişe.´Ùo3.pb-c.h
+"
+
+10 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__š™
+
+
+11 (
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+)
+
+13 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ 
+	gš™_v®ue
+ = 
+COM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__INIT
+;
+
+14 *
+	gmes§ge
+ = 
+š™_v®ue
+;
+
+16 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__g‘_·cked_size
+
+
+17 (cÚ¡ 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+)
+
+19 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+);
+
+20  
+´Ùobuf_c_mes§ge_g‘_·cked_size
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)(
+mes§ge
+));
+
+22 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__·ck
+
+
+23 (cÚ¡ 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+,
+
+24 
+ušt8_t
+ *
+	gout
+)
+
+26 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+);
+
+27  
+´Ùobuf_c_mes§ge_·ck
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+out
+);
+
+29 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__·ck_to_bufãr
+
+
+30 (cÚ¡ 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+,
+
+31 
+PrÙobufCBufãr
+ *
+	gbufãr
+)
+
+33 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+);
+
+34  
+´Ùobuf_c_mes§ge_·ck_to_bufãr
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+bufãr
+);
+
+36 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+
+37 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__uÅack
+
+
+38 (
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+,
+
+39 
+size_t
+ 
+	gËn
+,
+
+40 cÚ¡ 
+ušt8_t
+ *
+	gd©a
+)
+
+42  (
+	gCom__PrÙocŞ__Un™com__VehişeMes§ge
+ *)
+
+43 
+´Ùobuf_c_mes§ge_uÅack
+ (&
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+,
+
+44 
+®loÿtÜ
+, 
+Ën
+, 
+d©a
+);
+
+46 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__ä“_uÅacked
+
+
+47 (
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+,
+
+48 
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+)
+
+50 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+);
+
+51 
+´Ùobuf_c_mes§ge_ä“_uÅacked
+ ((
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+®loÿtÜ
+);
+
+53 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__š™
+
+
+54 (
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+)
+
+56 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ 
+	gš™_v®ue
+ = 
+COM__PROTOCOL__UNITCOM__FLEET_MESSAGE__INIT
+;
+
+57 *
+	gmes§ge
+ = 
+š™_v®ue
+;
+
+59 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__g‘_·cked_size
+
+
+60 (cÚ¡ 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+)
+
+62 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+);
+
+63  
+´Ùobuf_c_mes§ge_g‘_·cked_size
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)(
+mes§ge
+));
+
+65 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__·ck
+
+
+66 (cÚ¡ 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+,
+
+67 
+ušt8_t
+ *
+	gout
+)
+
+69 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+);
+
+70  
+´Ùobuf_c_mes§ge_·ck
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+out
+);
+
+72 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__·ck_to_bufãr
+
+
+73 (cÚ¡ 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+,
+
+74 
+PrÙobufCBufãr
+ *
+	gbufãr
+)
+
+76 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+);
+
+77  
+´Ùobuf_c_mes§ge_·ck_to_bufãr
+ ((cÚ¡ 
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+bufãr
+);
+
+79 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+
+80 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__uÅack
+
+
+81 (
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+,
+
+82 
+size_t
+ 
+	gËn
+,
+
+83 cÚ¡ 
+ušt8_t
+ *
+	gd©a
+)
+
+85  (
+	gCom__PrÙocŞ__Un™com__FË‘Mes§ge
+ *)
+
+86 
+´Ùobuf_c_mes§ge_uÅack
+ (&
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+,
+
+87 
+®loÿtÜ
+, 
+Ën
+, 
+d©a
+);
+
+89 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__ä“_uÅacked
+
+
+90 (
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+,
+
+91 
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+)
+
+93 
+as£¹
+(
+mes§ge
+->
+ba£
+.
+desütÜ
+ =ğ&
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+);
+
+94 
+´Ùobuf_c_mes§ge_ä“_uÅacked
+ ((
+PrÙobufCMes§ge
+*)
+mes§ge
+, 
+®loÿtÜ
+);
+
+96 cÚ¡ 
+PrÙobufCEnumV®ue
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__ty³__’um_v®ues_by_numb”
+[1] =
+
+100 cÚ¡ 
+PrÙobufCIÁRªge
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__ty³__v®ue_¿nges
+[] = {
+
+103 cÚ¡ 
+PrÙobufCEnumV®ueIndex
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__ty³__’um_v®ues_by_Çme
+[1] =
+
+107 cÚ¡ 
+PrÙobufCEnumDesütÜ
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__ty³__desütÜ
+ =
+
+109 
+PROTOBUF_C__ENUM_DESCRIPTOR_MAGIC
+,
+
+115 
+com__´ÙocŞ__un™com__vehişe_mes§ge__ty³__’um_v®ues_by_numb”
+,
+
+117 
+com__´ÙocŞ__un™com__vehişe_mes§ge__ty³__’um_v®ues_by_Çme
+,
+
+119 
+com__´ÙocŞ__un™com__vehişe_mes§ge__ty³__v®ue_¿nges
+,
+
+120 
+NULL
+,NULL,NULL,NULL
+
+122 cÚ¡ 
+PrÙobufCF›ldDesütÜ
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__f›ld_desütÜs
+[3] =
+
+127 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+128 
+PROTOBUF_C_TYPE_ENUM
+,
+
+129 
+off£tof
+(
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+, 
+has_ty³
+),
+
+130 
+off£tof
+(
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+, 
+ty³
+),
+
+131 &
+com__´ÙocŞ__un™com__vehişe_mes§ge__ty³__desütÜ
+,
+
+132 
+NULL
+,
+
+134 0,
+NULL
+,NULL
+
+139 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+140 
+PROTOBUF_C_TYPE_UINT64
+,
+
+141 
+off£tof
+(
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+, 
+has_time¡amp
+),
+
+142 
+off£tof
+(
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+, 
+time¡amp
+),
+
+143 
+NULL
+,
+
+144 
+NULL
+,
+
+146 0,
+NULL
+,NULL
+
+151 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+152 
+PROTOBUF_C_TYPE_MESSAGE
+,
+
+154 
+off£tof
+(
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+, 
+æ“t_mes§ge
+),
+
+155 &
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+,
+
+156 
+NULL
+,
+
+158 0,
+NULL
+,NULL
+
+161 cÚ¡ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__f›ld_šdiûs_by_Çme
+[] = {
+
+166 cÚ¡ 
+PrÙobufCIÁRªge
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__numb”_¿nges
+[1 + 1] =
+
+171 cÚ¡ 
+PrÙobufCMes§geDesütÜ
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+ =
+
+173 
+PROTOBUF_C__MESSAGE_DESCRIPTOR_MAGIC
+,
+
+178 (
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+),
+
+180 
+com__´ÙocŞ__un™com__vehişe_mes§ge__f›ld_desütÜs
+,
+
+181 
+com__´ÙocŞ__un™com__vehişe_mes§ge__f›ld_šdiûs_by_Çme
+,
+
+182 1, 
+com__´ÙocŞ__un™com__vehişe_mes§ge__numb”_¿nges
+,
+
+183 (
+PrÙobufCMes§geIn™
+è
+com__´ÙocŞ__un™com__vehişe_mes§ge__š™
+,
+
+184 
+NULL
+,NULL,NULL
+
+186 cÚ¡ 
+PrÙobufCF›ldDesütÜ
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__f›ld_desütÜs
+[1] =
+
+191 
+PROTOBUF_C_LABEL_OPTIONAL
+,
+
+192 
+PROTOBUF_C_TYPE_MESSAGE
+,
+
+194 
+off£tof
+(
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+, 
+gps
+),
+
+195 &
+com__´ÙocŞ__sh¬ed__gps_d©a__desütÜ
+,
+
+196 
+NULL
+,
+
+198 0,
+NULL
+,NULL
+
+201 cÚ¡ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__f›ld_šdiûs_by_Çme
+[] = {
+
+204 cÚ¡ 
+PrÙobufCIÁRªge
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__numb”_¿nges
+[1 + 1] =
+
+209 cÚ¡ 
+PrÙobufCMes§geDesütÜ
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+ =
+
+211 
+PROTOBUF_C__MESSAGE_DESCRIPTOR_MAGIC
+,
+
+216 (
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+),
+
+218 
+com__´ÙocŞ__un™com__æ“t_mes§ge__f›ld_desütÜs
+,
+
+219 
+com__´ÙocŞ__un™com__æ“t_mes§ge__f›ld_šdiûs_by_Çme
+,
+
+220 1, 
+com__´ÙocŞ__un™com__æ“t_mes§ge__numb”_¿nges
+,
+
+221 (
+PrÙobufCMes§geIn™
+è
+com__´ÙocŞ__un™com__æ“t_mes§ge__š™
+,
+
+222 
+NULL
+,NULL,NULL
+
+	@unitcom/vehicle.proto3.pb-c.h
+
+4 #iâdeà
+PROTOBUF_C_com_2årÙocŞ_2fun™com_2fvehişe_2•rÙo3__INCLUDED
+
+
+5 
+	#PROTOBUF_C_com_2årÙocŞ_2fun™com_2fvehişe_2•rÙo3__INCLUDED
+
+
+	)
+
+7 
+	~<´Ùobuf-c/´Ùobuf-c.h
+>
+
+9 
+	gPROTOBUF_C__BEGIN_DECLS
+
+
+11 #ià
+PROTOBUF_C_VERSION_NUMBER
+ < 1000000
+
+12 #”rÜ 
+This
+ 
+fe
+ 
+was
+ 
+g’”©ed
+ 
+by
+ 
+a
+ 
+Ãw”
+ 
+v”siÚ
+ 
+of
+ 
+´Ùoc
+-
+c
+ 
+which
+ 
+is
+ 
+šcom·tibË
+ 
+w™h
+ 
+your
+ 
+lib´Ùobuf
+-ø
+h—d”s
+. 
+PËa£
+ 
+upd©e
+ your headers.
+
+13 #–ià1002001 < 
+PROTOBUF_C_MIN_COMPILER_VERSION
+
+
+14 #”rÜ 
+This
+ 
+fe
+ 
+was
+ 
+g’”©ed
+ 
+by
+ 
+ª
+ 
+Şd”
+ 
+v”siÚ
+ 
+of
+ 
+´Ùoc
+-
+c
+ 
+which
+ 
+is
+ 
+šcom·tibË
+ 
+w™h
+ 
+your
+ 
+lib´Ùobuf
+-ø
+h—d”s
+. 
+PËa£
+ 
+»g’”©e
+ 
+this
+ fw™h 
+a
+ 
+Ãw”
+ version of…rotoc-c.
+
+17 
+	~"com/´ÙocŞ/sh¬ed/gps_d©a.´Ùo3.pb-c.h
+"
+
+19 
+_Com__PrÙocŞ__Un™com__VehişeMes§ge
+ 
+	tCom__PrÙocŞ__Un™com__VehişeMes§ge
+;
+
+20 
+_Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ 
+	tCom__PrÙocŞ__Un™com__FË‘Mes§ge
+;
+
+25 
+	e_Com__PrÙocŞ__Un™com__VehişeMes§ge__Ty³
+ {
+
+26 
+	mCOM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__TYPE__FLEET
+ = 0
+
+27 
+PROTOBUF_C__FORCE_ENUM_TO_BE_INT_SIZE
+(
+COM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__TYPE
+)
+
+28 } 
+	tCom__PrÙocŞ__Un™com__VehişeMes§ge__Ty³
+;
+
+32 
+	s_Com__PrÙocŞ__Un™com__VehişeMes§ge
+
+
+34 
+PrÙobufCMes§ge
+ 
+	mba£
+;
+
+35 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_ty³
+;
+
+36 
+Com__PrÙocŞ__Un™com__VehişeMes§ge__Ty³
+ 
+	mty³
+;
+
+37 
+´Ùobuf_c_boŞ—n
+ 
+	mhas_time¡amp
+;
+
+38 
+ušt64_t
+ 
+	mtime¡amp
+;
+
+39 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	mæ“t_mes§ge
+;
+
+41 
+	#COM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__INIT
+ \
+
+42 { 
+	`PROTOBUF_C_MESSAGE_INIT
+ (&
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+) \
+
+43 , 0,0, 0,0, 
+NULL
+ }
+
+	)
+
+46 
+	s_Com__PrÙocŞ__Un™com__FË‘Mes§ge
+
+
+48 
+PrÙobufCMes§ge
+ 
+	mba£
+;
+
+49 
+Com__PrÙocŞ__Sh¬ed__GpsD©a
+ *
+	mgps
+;
+
+51 
+	#COM__PROTOCOL__UNITCOM__FLEET_MESSAGE__INIT
+ \
+
+52 { 
+	`PROTOBUF_C_MESSAGE_INIT
+ (&
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+) \
+
+53 , 
+NULL
+ }
+
+	)
+
+57 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__š™
+
+
+58 (
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+);
+
+59 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__g‘_·cked_size
+
+
+60 (cÚ¡ 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+);
+
+61 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__·ck
+
+
+62 (cÚ¡ 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+,
+
+63 
+ušt8_t
+ *
+	gout
+);
+
+64 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__·ck_to_bufãr
+
+
+65 (cÚ¡ 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+,
+
+66 
+PrÙobufCBufãr
+ *
+	gbufãr
+);
+
+67 
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+
+68 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__uÅack
+
+
+69 (
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+,
+
+70 
+size_t
+ 
+	gËn
+,
+
+71 cÚ¡ 
+ušt8_t
+ *
+	gd©a
+);
+
+72 
+	gcom__´ÙocŞ__un™com__vehişe_mes§ge__ä“_uÅacked
+
+
+73 (
+Com__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	gmes§ge
+,
+
+74 
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+);
+
+76 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__š™
+
+
+77 (
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+);
+
+78 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__g‘_·cked_size
+
+
+79 (cÚ¡ 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+);
+
+80 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__·ck
+
+
+81 (cÚ¡ 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+,
+
+82 
+ušt8_t
+ *
+	gout
+);
+
+83 
+size_t
+ 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__·ck_to_bufãr
+
+
+84 (cÚ¡ 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+,
+
+85 
+PrÙobufCBufãr
+ *
+	gbufãr
+);
+
+86 
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+
+87 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__uÅack
+
+
+88 (
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+,
+
+89 
+size_t
+ 
+	gËn
+,
+
+90 cÚ¡ 
+ušt8_t
+ *
+	gd©a
+);
+
+91 
+	gcom__´ÙocŞ__un™com__æ“t_mes§ge__ä“_uÅacked
+
+
+92 (
+Com__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	gmes§ge
+,
+
+93 
+PrÙobufCAÎoÿtÜ
+ *
+	g®loÿtÜ
+);
+
+96 (*
+	tCom__PrÙocŞ__Un™com__VehişeMes§ge_Closu»
+)
+
+97 (cÚ¡ 
+	tCom__PrÙocŞ__Un™com__VehişeMes§ge
+ *
+	tmes§ge
+,
+
+98 *
+	tşosu»_d©a
+);
+
+99 (*
+	tCom__PrÙocŞ__Un™com__FË‘Mes§ge_Closu»
+)
+
+100 (cÚ¡ 
+	tCom__PrÙocŞ__Un™com__FË‘Mes§ge
+ *
+	tmes§ge
+,
+
+101 *
+	tşosu»_d©a
+);
+
+108 cÚ¡ 
+PrÙobufCMes§geDesütÜ
+ 
+com__´ÙocŞ__un™com__vehişe_mes§ge__desütÜ
+;
+
+109 cÚ¡ 
+PrÙobufCEnumDesütÜ
+ 
+com__´ÙocŞ__un™com__vehişe_mes§ge__ty³__desütÜ
+;
+
+110 cÚ¡ 
+PrÙobufCMes§geDesütÜ
+ 
+com__´ÙocŞ__un™com__æ“t_mes§ge__desütÜ
+;
+
+112 
+PROTOBUF_C__END_DECLS
+
+
+	@
+1
+.
+1
+/usr/include
+4
+120
+shared/gps_data.proto3.pb-c.c
+shared/gps_data.proto3.pb-c.h
+unitcom/vehicle.proto3.pb-c.c
+unitcom/vehicle.proto3.pb-c.h

@@ -1,0 +1,6 @@
+syntax = "proto2";   // by default proto type is 2", u can use proto3 also
+
+message AMessage {
+  required int32 a=1; 
+  optional int32 b=2;
+}

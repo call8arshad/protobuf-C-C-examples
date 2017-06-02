@@ -1,0 +1,78 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+COM__PROTOCOL__SHARED__GPS_DATA__INIT	shared/gps_data.proto3.pb-c.h	40;"	d
+COM__PROTOCOL__UNITCOM__FLEET_MESSAGE__INIT	unitcom/vehicle.proto3.pb-c.h	51;"	d
+COM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__INIT	unitcom/vehicle.proto3.pb-c.h	41;"	d
+COM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__TYPE__FLEET	unitcom/vehicle.proto3.pb-c.h	/^  COM__PROTOCOL__UNITCOM__VEHICLE_MESSAGE__TYPE__FLEET = 0$/;"	e	enum:_Com__Protocol__Unitcom__VehicleMessage__Type
+Com__Protocol__Shared__GpsData	shared/gps_data.proto3.pb-c.h	/^typedef struct _Com__Protocol__Shared__GpsData Com__Protocol__Shared__GpsData;$/;"	t	typeref:struct:_Com__Protocol__Shared__GpsData
+Com__Protocol__Shared__GpsData_Closure	shared/gps_data.proto3.pb-c.h	/^typedef void (*Com__Protocol__Shared__GpsData_Closure)$/;"	t
+Com__Protocol__Unitcom__FleetMessage	unitcom/vehicle.proto3.pb-c.h	/^typedef struct _Com__Protocol__Unitcom__FleetMessage Com__Protocol__Unitcom__FleetMessage;$/;"	t	typeref:struct:_Com__Protocol__Unitcom__FleetMessage
+Com__Protocol__Unitcom__FleetMessage_Closure	unitcom/vehicle.proto3.pb-c.h	/^typedef void (*Com__Protocol__Unitcom__FleetMessage_Closure)$/;"	t
+Com__Protocol__Unitcom__VehicleMessage	unitcom/vehicle.proto3.pb-c.h	/^typedef struct _Com__Protocol__Unitcom__VehicleMessage Com__Protocol__Unitcom__VehicleMessage;$/;"	t	typeref:struct:_Com__Protocol__Unitcom__VehicleMessage
+Com__Protocol__Unitcom__VehicleMessage_Closure	unitcom/vehicle.proto3.pb-c.h	/^typedef void (*Com__Protocol__Unitcom__VehicleMessage_Closure)$/;"	t
+Com__Protocol__Unitcom__VehicleMessage__Type	unitcom/vehicle.proto3.pb-c.h	/^} Com__Protocol__Unitcom__VehicleMessage__Type;$/;"	t	typeref:enum:_Com__Protocol__Unitcom__VehicleMessage__Type
+PROTOBUF_C__NO_DEPRECATED	shared/gps_data.proto3.pb-c.c	6;"	d	file:
+PROTOBUF_C__NO_DEPRECATED	unitcom/vehicle.proto3.pb-c.c	6;"	d	file:
+PROTOBUF_C_com_2fprotocol_2fshared_2fgps_5fdata_2eproto3__INCLUDED	shared/gps_data.proto3.pb-c.h	5;"	d
+PROTOBUF_C_com_2fprotocol_2funitcom_2fvehicle_2eproto3__INCLUDED	unitcom/vehicle.proto3.pb-c.h	5;"	d
+_Com__Protocol__Shared__GpsData	shared/gps_data.proto3.pb-c.h	/^struct  _Com__Protocol__Shared__GpsData$/;"	s
+_Com__Protocol__Unitcom__FleetMessage	unitcom/vehicle.proto3.pb-c.h	/^struct  _Com__Protocol__Unitcom__FleetMessage$/;"	s
+_Com__Protocol__Unitcom__VehicleMessage	unitcom/vehicle.proto3.pb-c.h	/^struct  _Com__Protocol__Unitcom__VehicleMessage$/;"	s
+_Com__Protocol__Unitcom__VehicleMessage__Type	unitcom/vehicle.proto3.pb-c.h	/^typedef enum _Com__Protocol__Unitcom__VehicleMessage__Type {$/;"	g
+base	shared/gps_data.proto3.pb-c.h	/^  ProtobufCMessage base;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+base	unitcom/vehicle.proto3.pb-c.h	/^  ProtobufCMessage base;$/;"	m	struct:_Com__Protocol__Unitcom__FleetMessage
+base	unitcom/vehicle.proto3.pb-c.h	/^  ProtobufCMessage base;$/;"	m	struct:_Com__Protocol__Unitcom__VehicleMessage
+com__protocol__shared__gps_data__descriptor	shared/gps_data.proto3.pb-c.c	/^const ProtobufCMessageDescriptor com__protocol__shared__gps_data__descriptor =$/;"	v
+com__protocol__shared__gps_data__field_descriptors	shared/gps_data.proto3.pb-c.c	/^static const ProtobufCFieldDescriptor com__protocol__shared__gps_data__field_descriptors[5] =$/;"	v	file:
+com__protocol__shared__gps_data__field_indices_by_name	shared/gps_data.proto3.pb-c.c	/^static const unsigned com__protocol__shared__gps_data__field_indices_by_name[] = {$/;"	v	file:
+com__protocol__shared__gps_data__free_unpacked	shared/gps_data.proto3.pb-c.c	/^void   com__protocol__shared__gps_data__free_unpacked$/;"	f
+com__protocol__shared__gps_data__get_packed_size	shared/gps_data.proto3.pb-c.c	/^size_t com__protocol__shared__gps_data__get_packed_size$/;"	f
+com__protocol__shared__gps_data__init	shared/gps_data.proto3.pb-c.c	/^void   com__protocol__shared__gps_data__init$/;"	f
+com__protocol__shared__gps_data__number_ranges	shared/gps_data.proto3.pb-c.c	/^static const ProtobufCIntRange com__protocol__shared__gps_data__number_ranges[1 + 1] =$/;"	v	file:
+com__protocol__shared__gps_data__pack	shared/gps_data.proto3.pb-c.c	/^size_t com__protocol__shared__gps_data__pack$/;"	f
+com__protocol__shared__gps_data__pack_to_buffer	shared/gps_data.proto3.pb-c.c	/^size_t com__protocol__shared__gps_data__pack_to_buffer$/;"	f
+com__protocol__shared__gps_data__unpack	shared/gps_data.proto3.pb-c.c	/^       com__protocol__shared__gps_data__unpack$/;"	f
+com__protocol__unitcom__fleet_message__descriptor	unitcom/vehicle.proto3.pb-c.c	/^const ProtobufCMessageDescriptor com__protocol__unitcom__fleet_message__descriptor =$/;"	v
+com__protocol__unitcom__fleet_message__field_descriptors	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCFieldDescriptor com__protocol__unitcom__fleet_message__field_descriptors[1] =$/;"	v	file:
+com__protocol__unitcom__fleet_message__field_indices_by_name	unitcom/vehicle.proto3.pb-c.c	/^static const unsigned com__protocol__unitcom__fleet_message__field_indices_by_name[] = {$/;"	v	file:
+com__protocol__unitcom__fleet_message__free_unpacked	unitcom/vehicle.proto3.pb-c.c	/^void   com__protocol__unitcom__fleet_message__free_unpacked$/;"	f
+com__protocol__unitcom__fleet_message__get_packed_size	unitcom/vehicle.proto3.pb-c.c	/^size_t com__protocol__unitcom__fleet_message__get_packed_size$/;"	f
+com__protocol__unitcom__fleet_message__init	unitcom/vehicle.proto3.pb-c.c	/^void   com__protocol__unitcom__fleet_message__init$/;"	f
+com__protocol__unitcom__fleet_message__number_ranges	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCIntRange com__protocol__unitcom__fleet_message__number_ranges[1 + 1] =$/;"	v	file:
+com__protocol__unitcom__fleet_message__pack	unitcom/vehicle.proto3.pb-c.c	/^size_t com__protocol__unitcom__fleet_message__pack$/;"	f
+com__protocol__unitcom__fleet_message__pack_to_buffer	unitcom/vehicle.proto3.pb-c.c	/^size_t com__protocol__unitcom__fleet_message__pack_to_buffer$/;"	f
+com__protocol__unitcom__fleet_message__unpack	unitcom/vehicle.proto3.pb-c.c	/^       com__protocol__unitcom__fleet_message__unpack$/;"	f
+com__protocol__unitcom__vehicle_message__descriptor	unitcom/vehicle.proto3.pb-c.c	/^const ProtobufCMessageDescriptor com__protocol__unitcom__vehicle_message__descriptor =$/;"	v
+com__protocol__unitcom__vehicle_message__field_descriptors	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCFieldDescriptor com__protocol__unitcom__vehicle_message__field_descriptors[3] =$/;"	v	file:
+com__protocol__unitcom__vehicle_message__field_indices_by_name	unitcom/vehicle.proto3.pb-c.c	/^static const unsigned com__protocol__unitcom__vehicle_message__field_indices_by_name[] = {$/;"	v	file:
+com__protocol__unitcom__vehicle_message__free_unpacked	unitcom/vehicle.proto3.pb-c.c	/^void   com__protocol__unitcom__vehicle_message__free_unpacked$/;"	f
+com__protocol__unitcom__vehicle_message__get_packed_size	unitcom/vehicle.proto3.pb-c.c	/^size_t com__protocol__unitcom__vehicle_message__get_packed_size$/;"	f
+com__protocol__unitcom__vehicle_message__init	unitcom/vehicle.proto3.pb-c.c	/^void   com__protocol__unitcom__vehicle_message__init$/;"	f
+com__protocol__unitcom__vehicle_message__number_ranges	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCIntRange com__protocol__unitcom__vehicle_message__number_ranges[1 + 1] =$/;"	v	file:
+com__protocol__unitcom__vehicle_message__pack	unitcom/vehicle.proto3.pb-c.c	/^size_t com__protocol__unitcom__vehicle_message__pack$/;"	f
+com__protocol__unitcom__vehicle_message__pack_to_buffer	unitcom/vehicle.proto3.pb-c.c	/^size_t com__protocol__unitcom__vehicle_message__pack_to_buffer$/;"	f
+com__protocol__unitcom__vehicle_message__type__descriptor	unitcom/vehicle.proto3.pb-c.c	/^const ProtobufCEnumDescriptor com__protocol__unitcom__vehicle_message__type__descriptor =$/;"	v
+com__protocol__unitcom__vehicle_message__type__enum_values_by_name	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCEnumValueIndex com__protocol__unitcom__vehicle_message__type__enum_values_by_name[1] =$/;"	v	file:
+com__protocol__unitcom__vehicle_message__type__enum_values_by_number	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCEnumValue com__protocol__unitcom__vehicle_message__type__enum_values_by_number[1] =$/;"	v	file:
+com__protocol__unitcom__vehicle_message__type__value_ranges	unitcom/vehicle.proto3.pb-c.c	/^static const ProtobufCIntRange com__protocol__unitcom__vehicle_message__type__value_ranges[] = {$/;"	v	file:
+com__protocol__unitcom__vehicle_message__unpack	unitcom/vehicle.proto3.pb-c.c	/^       com__protocol__unitcom__vehicle_message__unpack$/;"	f
+elevation	shared/gps_data.proto3.pb-c.h	/^  int32_t elevation;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+fleet_message	unitcom/vehicle.proto3.pb-c.h	/^  Com__Protocol__Unitcom__FleetMessage *fleet_message;$/;"	m	struct:_Com__Protocol__Unitcom__VehicleMessage
+gps	unitcom/vehicle.proto3.pb-c.h	/^  Com__Protocol__Shared__GpsData *gps;$/;"	m	struct:_Com__Protocol__Unitcom__FleetMessage
+has_elevation	shared/gps_data.proto3.pb-c.h	/^  protobuf_c_boolean has_elevation;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+has_heading	shared/gps_data.proto3.pb-c.h	/^  protobuf_c_boolean has_heading;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+has_latitude	shared/gps_data.proto3.pb-c.h	/^  protobuf_c_boolean has_latitude;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+has_longitude	shared/gps_data.proto3.pb-c.h	/^  protobuf_c_boolean has_longitude;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+has_reversed	shared/gps_data.proto3.pb-c.h	/^  protobuf_c_boolean has_reversed;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+has_timestamp	unitcom/vehicle.proto3.pb-c.h	/^  protobuf_c_boolean has_timestamp;$/;"	m	struct:_Com__Protocol__Unitcom__VehicleMessage
+has_type	unitcom/vehicle.proto3.pb-c.h	/^  protobuf_c_boolean has_type;$/;"	m	struct:_Com__Protocol__Unitcom__VehicleMessage
+heading	shared/gps_data.proto3.pb-c.h	/^  int32_t heading;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+latitude	shared/gps_data.proto3.pb-c.h	/^  float latitude;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+longitude	shared/gps_data.proto3.pb-c.h	/^  float longitude;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+reversed	shared/gps_data.proto3.pb-c.h	/^  protobuf_c_boolean reversed;$/;"	m	struct:_Com__Protocol__Shared__GpsData
+timestamp	unitcom/vehicle.proto3.pb-c.h	/^  uint64_t timestamp;$/;"	m	struct:_Com__Protocol__Unitcom__VehicleMessage
+type	unitcom/vehicle.proto3.pb-c.h	/^  Com__Protocol__Unitcom__VehicleMessage__Type type;$/;"	m	struct:_Com__Protocol__Unitcom__VehicleMessage
